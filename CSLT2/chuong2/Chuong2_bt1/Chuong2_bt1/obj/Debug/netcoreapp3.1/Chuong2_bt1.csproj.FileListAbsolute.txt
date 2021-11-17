@@ -1,0 +1,13 @@
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.csprojAssemblyReference.cache
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.AssemblyInfoInputs.cache
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.AssemblyInfo.cs
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.csproj.CoreCompileInputs.cache
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\bin\Debug\netcoreapp3.1\Chuong2_bt1.exe
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\bin\Debug\netcoreapp3.1\Chuong2_bt1.deps.json
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\bin\Debug\netcoreapp3.1\Chuong2_bt1.runtimeconfig.json
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\bin\Debug\netcoreapp3.1\Chuong2_bt1.runtimeconfig.dev.json
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\bin\Debug\netcoreapp3.1\Chuong2_bt1.dll
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\bin\Debug\netcoreapp3.1\Chuong2_bt1.pdb
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.dll
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.pdb
+C:\Users\tranm\OneDrive\Desktop\Học tập\CSLT 2\Chuong2_bt1\Chuong2_bt1\obj\Debug\netcoreapp3.1\Chuong2_bt1.genruntimeconfig.cache

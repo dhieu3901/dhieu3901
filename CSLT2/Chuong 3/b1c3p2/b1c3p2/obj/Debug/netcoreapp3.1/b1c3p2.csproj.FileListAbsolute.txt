@@ -1,0 +1,26 @@
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.exe
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.deps.json
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.runtimeconfig.json
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.runtimeconfig.dev.json
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.dll
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.pdb
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.csprojAssemblyReference.cache
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.AssemblyInfoInputs.cache
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.AssemblyInfo.cs
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.csproj.CoreCompileInputs.cache
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.dll
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.pdb
+C:\Users\Asus ZenBook\source\repos\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.genruntimeconfig.cache
+D:\CSLT2\code\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.exe
+D:\CSLT2\code\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.deps.json
+D:\CSLT2\code\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.runtimeconfig.json
+D:\CSLT2\code\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.runtimeconfig.dev.json
+D:\CSLT2\code\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.dll
+D:\CSLT2\code\b1c3p2\b1c3p2\bin\Debug\netcoreapp3.1\b1c3p2.pdb
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.csprojAssemblyReference.cache
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.AssemblyInfoInputs.cache
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.AssemblyInfo.cs
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.csproj.CoreCompileInputs.cache
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.dll
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.pdb
+D:\CSLT2\code\b1c3p2\b1c3p2\obj\Debug\netcoreapp3.1\b1c3p2.genruntimeconfig.cache

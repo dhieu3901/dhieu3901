@@ -1,0 +1,12 @@
+D:\c#_source\cslt2\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\bin\Debug\Chuong3_part2_B1.exe
+D:\c#_source\cslt2\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\bin\Debug\Chuong3_part2_B1.pdb
+D:\c#_source\cslt2\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.csprojAssemblyReference.cache
+D:\c#_source\cslt2\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.csproj.CoreCompileInputs.cache
+D:\c#_source\cslt2\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.exe
+D:\c#_source\cslt2\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.pdb
+D:\CSLT2\code\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\bin\Debug\Chuong3_part2_B1.exe
+D:\CSLT2\code\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\bin\Debug\Chuong3_part2_B1.pdb
+D:\CSLT2\code\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.csprojAssemblyReference.cache
+D:\CSLT2\code\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.csproj.CoreCompileInputs.cache
+D:\CSLT2\code\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.exe
+D:\CSLT2\code\Chuong 3\Chuong3_part2_B1\Chuong3_part2_B1\obj\Debug\Chuong3_part2_B1.pdb

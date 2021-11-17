@@ -1,0 +1,12 @@
+C:\Users\tranm\source\repos\thu3_2302\thu3_2302\obj\Debug\c3_nhanvien.csprojAssemblyReference.cache
+C:\Users\tranm\source\repos\thu3_2302\thu3_2302\obj\Debug\c3_nhanvien.csproj.CoreCompileInputs.cache
+C:\Users\tranm\source\repos\thu3_2302\thu3_2302\bin\Debug\thu3_2302.exe
+C:\Users\tranm\source\repos\thu3_2302\thu3_2302\bin\Debug\thu3_2302.pdb
+C:\Users\tranm\source\repos\thu3_2302\thu3_2302\obj\Debug\thu3_2302.exe
+C:\Users\tranm\source\repos\thu3_2302\thu3_2302\obj\Debug\thu3_2302.pdb
+D:\CSLT2\source\code\thu3_2302\thu3_2302\obj\Debug\c3_nhanvien.csprojAssemblyReference.cache
+D:\CSLT2\source\code\thu3_2302\thu3_2302\obj\Debug\c3_nhanvien.csproj.CoreCompileInputs.cache
+D:\CSLT2\source\code\thu3_2302\thu3_2302\obj\Debug\thu3_2302.exe
+D:\CSLT2\source\code\thu3_2302\thu3_2302\obj\Debug\thu3_2302.pdb
+D:\CSLT2\source\code\thu3_2302\thu3_2302\bin\Debug\thu3_2302.exe
+D:\CSLT2\source\code\thu3_2302\thu3_2302\bin\Debug\thu3_2302.pdb

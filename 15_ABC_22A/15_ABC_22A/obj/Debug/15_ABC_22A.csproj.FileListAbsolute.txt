@@ -1,0 +1,9 @@
+D:\C#\15_ABC_22A\15_ABC_22A\bin\Debug\15_ABC_22A.exe
+D:\C#\15_ABC_22A\15_ABC_22A\bin\Debug\15_ABC_22A.pdb
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\15_ABC_22A.csprojAssemblyReference.cache
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\_15_ABC_22A.frmDMHanghoa.resources
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\_15_ABC_22A.Properties.Resources.resources
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\15_ABC_22A.csproj.GenerateResource.cache
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\15_ABC_22A.csproj.CoreCompileInputs.cache
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\15_ABC_22A.exe
+D:\C#\15_ABC_22A\15_ABC_22A\obj\Debug\15_ABC_22A.pdb

@@ -1,0 +1,13 @@
+D:\C#\Bai 7\bai 13\bin\Debug\bai 13.exe
+D:\C#\Bai 7\bai 13\bin\Debug\bai 13.pdb
+D:\C#\Bai 7\bai 13\obj\Debug\bai 13.csprojAssemblyReference.cache
+D:\C#\Bai 7\bai 13\obj\Debug\bai_13.Properties.Resources.resources
+D:\C#\Bai 7\bai 13\obj\Debug\bai 13.csproj.GenerateResource.cache
+D:\C#\Bai 7\bai 13\obj\Debug\bai 13.csproj.CoreCompileInputs.cache
+D:\C#\Bai 7\bai 13\obj\Debug\bai 13.exe
+D:\C#\Bai 7\bai 13\obj\Debug\bai 13.pdb
+D:\C#\Bai 7\bai 13\obj\Debug\bai_13.main.resources
+D:\C#\Bai 7\bai 13\obj\Debug\bai_13.frmBai13.resources
+D:\C#\Bai 7\bai 13\obj\Debug\bai_13.frmBai6.resources
+D:\C#\Bai 7\bai 13\obj\Debug\bai_13.frmBai7.resources
+D:\C#\Bai 7\bai 13\obj\Debug\bai_13.frmOpen.resources

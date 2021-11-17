@@ -1,0 +1,10 @@
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\bin\Debug\Project_Trainning_1.exe
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\bin\Debug\Project_Trainning_1.pdb
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.csprojAssemblyReference.cache
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.frmDMChatLieu.resources
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.QuanLyBanHang.resources
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.Properties.Resources.resources
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.csproj.GenerateResource.cache
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.csproj.CoreCompileInputs.cache
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.exe
+D:\CSLT2\OnTap\Ktra2\Project_Trainning_1\Project_Trainning_1\obj\Debug\Project_Trainning_1.pdb

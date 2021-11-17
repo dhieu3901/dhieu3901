@@ -1,0 +1,9 @@
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\15_TranDuyTrungHieu_22A4040135.csprojAssemblyReference.cache
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\_15_TranDuyTrungHieu_22A4040135.frmDMSachtruyen.resources
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\_15_TranDuyTrungHieu_22A4040135.Properties.Resources.resources
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\15_TranDuyTrungHieu_22A4040135.csproj.GenerateResource.cache
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\15_TranDuyTrungHieu_22A4040135.csproj.CoreCompileInputs.cache
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\bin\Debug\15_TranDuyTrungHieu_22A4040135.exe
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\bin\Debug\15_TranDuyTrungHieu_22A4040135.pdb
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\15_TranDuyTrungHieu_22A4040135.exe
+D:\C#\15_TranDuyTrungHieu_22A4040135\15_TranDuyTrungHieu_22A4040135\obj\Debug\15_TranDuyTrungHieu_22A4040135.pdb

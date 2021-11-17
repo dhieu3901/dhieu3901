@@ -1,0 +1,12 @@
+D:\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\bin\Debug\onktraNhanVien.exe
+D:\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\bin\Debug\onktraNhanVien.pdb
+D:\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.csprojAssemblyReference.cache
+D:\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.csproj.CoreCompileInputs.cache
+D:\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.exe
+D:\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.pdb
+C:\Users\hieutran\Downloads\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.csprojAssemblyReference.cache
+C:\Users\hieutran\Downloads\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\hieutran\Downloads\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.exe
+C:\Users\hieutran\Downloads\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\obj\Debug\onktraNhanVien.pdb
+C:\Users\hieutran\Downloads\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\bin\Debug\onktraNhanVien.exe
+C:\Users\hieutran\Downloads\CSLT2\OnTap\Ktra1\onktraNhanVien\onktraNhanVien\bin\Debug\onktraNhanVien.pdb

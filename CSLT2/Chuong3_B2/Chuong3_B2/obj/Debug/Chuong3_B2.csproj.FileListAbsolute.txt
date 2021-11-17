@@ -1,0 +1,5 @@
+D:\c#_source\cslt2\Chuong 3\Chuong3_B2\Chuong3_B2\bin\Debug\Chuong3_B2.exe
+D:\c#_source\cslt2\Chuong 3\Chuong3_B2\Chuong3_B2\bin\Debug\Chuong3_B2.pdb
+D:\c#_source\cslt2\Chuong 3\Chuong3_B2\Chuong3_B2\obj\Debug\Chuong3_B2.csproj.CoreCompileInputs.cache
+D:\c#_source\cslt2\Chuong 3\Chuong3_B2\Chuong3_B2\obj\Debug\Chuong3_B2.exe
+D:\c#_source\cslt2\Chuong 3\Chuong3_B2\Chuong3_B2\obj\Debug\Chuong3_B2.pdb

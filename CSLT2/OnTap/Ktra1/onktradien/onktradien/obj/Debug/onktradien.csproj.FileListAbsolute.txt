@@ -1,0 +1,6 @@
+D:\CSLT2\onktradien\onktradien\obj\Debug\onktradien.csprojAssemblyReference.cache
+D:\CSLT2\onktradien\onktradien\obj\Debug\onktradien.csproj.CoreCompileInputs.cache
+D:\CSLT2\onktradien\onktradien\bin\Debug\onktradien.exe
+D:\CSLT2\onktradien\onktradien\bin\Debug\onktradien.pdb
+D:\CSLT2\onktradien\onktradien\obj\Debug\onktradien.exe
+D:\CSLT2\onktradien\onktradien\obj\Debug\onktradien.pdb

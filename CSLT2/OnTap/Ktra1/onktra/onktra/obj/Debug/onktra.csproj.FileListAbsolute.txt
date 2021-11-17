@@ -1,0 +1,6 @@
+D:\CSLT2\onktra\onktra\bin\Debug\onktra.exe
+D:\CSLT2\onktra\onktra\bin\Debug\onktra.pdb
+D:\CSLT2\onktra\onktra\obj\Debug\onktra.csprojAssemblyReference.cache
+D:\CSLT2\onktra\onktra\obj\Debug\onktra.csproj.CoreCompileInputs.cache
+D:\CSLT2\onktra\onktra\obj\Debug\onktra.exe
+D:\CSLT2\onktra\onktra\obj\Debug\onktra.pdb

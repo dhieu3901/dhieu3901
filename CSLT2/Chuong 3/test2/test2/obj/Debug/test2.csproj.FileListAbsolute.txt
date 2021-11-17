@@ -1,0 +1,12 @@
+D:\CSLT2\source\code\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+D:\CSLT2\source\code\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+D:\CSLT2\source\code\test2\test2\bin\Debug\test2.exe
+D:\CSLT2\source\code\test2\test2\bin\Debug\test2.pdb
+D:\CSLT2\source\code\test2\test2\obj\Debug\test2.exe
+D:\CSLT2\source\code\test2\test2\obj\Debug\test2.pdb
+D:\CSLT2\code\test2\test2\bin\Debug\test2.exe
+D:\CSLT2\code\test2\test2\bin\Debug\test2.pdb
+D:\CSLT2\code\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+D:\CSLT2\code\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+D:\CSLT2\code\test2\test2\obj\Debug\test2.exe
+D:\CSLT2\code\test2\test2\obj\Debug\test2.pdb

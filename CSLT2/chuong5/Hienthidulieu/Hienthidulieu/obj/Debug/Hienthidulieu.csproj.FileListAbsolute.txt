@@ -1,0 +1,10 @@
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\bin\Debug\Hienthidulieu.exe
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\bin\Debug\Hienthidulieu.pdb
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.csprojAssemblyReference.cache
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.Form1.resources
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.Properties.Resources.resources
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.csproj.GenerateResource.cache
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.csproj.CoreCompileInputs.cache
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.exe
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.pdb
+D:\CSLT2\chuong5\Hienthidulieu\Hienthidulieu\obj\Debug\Hienthidulieu.ChatLieu.resources

@@ -1,0 +1,6 @@
+C:\Users\tranm\source\repos\Chuong3_bai2\Chuong3_bai2\obj\Debug\Chuong3_bai1.1.csprojAssemblyReference.cache
+C:\Users\tranm\source\repos\Chuong3_bai2\Chuong3_bai2\obj\Debug\Chuong3_bai1.1.csproj.CoreCompileInputs.cache
+C:\Users\tranm\source\repos\Chuong3_bai2\Chuong3_bai2\bin\Debug\Chuong3_bai2.exe
+C:\Users\tranm\source\repos\Chuong3_bai2\Chuong3_bai2\bin\Debug\Chuong3_bai2.pdb
+C:\Users\tranm\source\repos\Chuong3_bai2\Chuong3_bai2\obj\Debug\Chuong3_bai2.exe
+C:\Users\tranm\source\repos\Chuong3_bai2\Chuong3_bai2\obj\Debug\Chuong3_bai2.pdb

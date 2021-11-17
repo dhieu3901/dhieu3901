@@ -1,0 +1,6 @@
+D:\CSLT2\C3_TienDien\C3_TienDien\bin\Debug\C3_TienDien.exe
+D:\CSLT2\C3_TienDien\C3_TienDien\bin\Debug\C3_TienDien.pdb
+D:\CSLT2\C3_TienDien\C3_TienDien\obj\Debug\C3_TienDien.csprojAssemblyReference.cache
+D:\CSLT2\C3_TienDien\C3_TienDien\obj\Debug\C3_TienDien.csproj.CoreCompileInputs.cache
+D:\CSLT2\C3_TienDien\C3_TienDien\obj\Debug\C3_TienDien.exe
+D:\CSLT2\C3_TienDien\C3_TienDien\obj\Debug\C3_TienDien.pdb

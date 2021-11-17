@@ -1,0 +1,6 @@
+D:\C#\vidu\vidu\bin\Debug\vidu.exe
+D:\C#\vidu\vidu\bin\Debug\vidu.pdb
+D:\C#\vidu\vidu\obj\Debug\vidu.csprojAssemblyReference.cache
+D:\C#\vidu\vidu\obj\Debug\vidu.csproj.CoreCompileInputs.cache
+D:\C#\vidu\vidu\obj\Debug\vidu.exe
+D:\C#\vidu\vidu\obj\Debug\vidu.pdb

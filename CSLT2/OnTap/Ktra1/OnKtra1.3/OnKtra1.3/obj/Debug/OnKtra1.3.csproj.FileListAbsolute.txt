@@ -1,0 +1,6 @@
+D:\CSLT2\OnTap\Ktra1\OnKtra1.3\OnKtra1.3\bin\Debug\OnKtra1.3.exe
+D:\CSLT2\OnTap\Ktra1\OnKtra1.3\OnKtra1.3\bin\Debug\OnKtra1.3.pdb
+D:\CSLT2\OnTap\Ktra1\OnKtra1.3\OnKtra1.3\obj\Debug\OnKtra1.3.csprojAssemblyReference.cache
+D:\CSLT2\OnTap\Ktra1\OnKtra1.3\OnKtra1.3\obj\Debug\OnKtra1.3.csproj.CoreCompileInputs.cache
+D:\CSLT2\OnTap\Ktra1\OnKtra1.3\OnKtra1.3\obj\Debug\OnKtra1.3.exe
+D:\CSLT2\OnTap\Ktra1\OnKtra1.3\OnKtra1.3\obj\Debug\OnKtra1.3.pdb

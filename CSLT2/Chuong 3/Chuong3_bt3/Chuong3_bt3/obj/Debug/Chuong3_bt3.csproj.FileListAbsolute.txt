@@ -1,0 +1,6 @@
+D:\CSLT2\Chuong3_bt3\Chuong3_bt3\bin\Debug\Chuong3_bt3.exe
+D:\CSLT2\Chuong3_bt3\Chuong3_bt3\bin\Debug\Chuong3_bt3.pdb
+D:\CSLT2\Chuong3_bt3\Chuong3_bt3\obj\Debug\Chuong3_bt3.csprojAssemblyReference.cache
+D:\CSLT2\Chuong3_bt3\Chuong3_bt3\obj\Debug\Chuong3_bt3.csproj.CoreCompileInputs.cache
+D:\CSLT2\Chuong3_bt3\Chuong3_bt3\obj\Debug\Chuong3_bt3.exe
+D:\CSLT2\Chuong3_bt3\Chuong3_bt3\obj\Debug\Chuong3_bt3.pdb

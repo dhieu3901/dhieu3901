@@ -1,0 +1,6 @@
+D:\CSLT2\onktratg\onktratg\bin\Debug\onktratg.exe
+D:\CSLT2\onktratg\onktratg\bin\Debug\onktratg.pdb
+D:\CSLT2\onktratg\onktratg\obj\Debug\onktratg.csprojAssemblyReference.cache
+D:\CSLT2\onktratg\onktratg\obj\Debug\onktratg.csproj.CoreCompileInputs.cache
+D:\CSLT2\onktratg\onktratg\obj\Debug\onktratg.exe
+D:\CSLT2\onktratg\onktratg\obj\Debug\onktratg.pdb

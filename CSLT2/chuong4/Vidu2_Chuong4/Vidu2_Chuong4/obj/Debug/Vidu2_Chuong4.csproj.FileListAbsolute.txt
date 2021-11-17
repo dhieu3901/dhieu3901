@@ -1,0 +1,9 @@
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\bin\Debug\Vidu2_Chuong4.exe
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\bin\Debug\Vidu2_Chuong4.pdb
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.csprojAssemblyReference.cache
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.Properties.Resources.resources
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.csproj.GenerateResource.cache
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.csproj.CoreCompileInputs.cache
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.exe
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.pdb
+D:\CSLT2\Vidu2_Chuong4\Vidu2_Chuong4\obj\Debug\Vidu2_Chuong4.FrmMain.resources

@@ -1,0 +1,9 @@
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\bin\Debug\vd1_chuong5.exe
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\bin\Debug\vd1_chuong5.pdb
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.csprojAssemblyReference.cache
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.Properties.Resources.resources
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.csproj.GenerateResource.cache
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.csproj.CoreCompileInputs.cache
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.exe
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.pdb
+D:\CSLT2\chuong5\vd1_chuong5\vd1_chuong5\obj\Debug\vd1_chuong5.Form1.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuhoc", "tuhoc\tuhoc.csproj", "{27E0D2B2-1B1F-4529-8456-49C20501D754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E0D2B2-1B1F-4529-8456-49C20501D754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E0D2B2-1B1F-4529-8456-49C20501D754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E0D2B2-1B1F-4529-8456-49C20501D754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E0D2B2-1B1F-4529-8456-49C20501D754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E305D2-DCD8-49BB-BF6B-3FB3A7F3500B}
+	EndGlobalSection
+EndGlobal

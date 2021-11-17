@@ -1,0 +1,6 @@
+D:\CSLT2\QuanLySach1\QuanLySach1\bin\Debug\QuanLySach1.exe
+D:\CSLT2\QuanLySach1\QuanLySach1\bin\Debug\QuanLySach1.pdb
+D:\CSLT2\QuanLySach1\QuanLySach1\obj\Debug\QuanLySach1.csprojAssemblyReference.cache
+D:\CSLT2\QuanLySach1\QuanLySach1\obj\Debug\QuanLySach1.csproj.CoreCompileInputs.cache
+D:\CSLT2\QuanLySach1\QuanLySach1\obj\Debug\QuanLySach1.exe
+D:\CSLT2\QuanLySach1\QuanLySach1\obj\Debug\QuanLySach1.pdb

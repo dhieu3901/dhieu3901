@@ -1,0 +1,8 @@
+D:\C#\tuhoc\tuhoc\obj\Debug\tuhoc.csprojAssemblyReference.cache
+D:\C#\tuhoc\tuhoc\obj\Debug\tuhoc.Properties.Resources.resources
+D:\C#\tuhoc\tuhoc\obj\Debug\tuhoc.csproj.GenerateResource.cache
+D:\C#\tuhoc\tuhoc\obj\Debug\tuhoc.csproj.CoreCompileInputs.cache
+D:\C#\tuhoc\tuhoc\bin\Debug\tuhoc.exe
+D:\C#\tuhoc\tuhoc\bin\Debug\tuhoc.pdb
+D:\C#\tuhoc\tuhoc\obj\Debug\tuhoc.exe
+D:\C#\tuhoc\tuhoc\obj\Debug\tuhoc.pdb

@@ -1,0 +1,11 @@
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\bin\Debug\Test1.exe
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\bin\Debug\Test1.pdb
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.frmMain.resources
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.frmDMChatlieu.resources
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.frmDMHang.resources
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.exe
+D:\CSLT2\OnTap\Ktra2\Test1\Test1\obj\Debug\Test1.pdb

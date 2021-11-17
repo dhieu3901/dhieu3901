@@ -1,0 +1,2 @@
+D:\CSLT2\Chuong3_b1\Chuong3_b1\obj\Debug\Chuong3_b1.csprojAssemblyReference.cache
+D:\CSLT2\Chuong3_b1\Chuong3_b1\obj\Debug\Chuong3_b1.csproj.CoreCompileInputs.cache

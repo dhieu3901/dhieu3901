@@ -1,0 +1,9 @@
+D:\C#\bài 6\bài 6\bin\Debug\bài 6.exe
+D:\C#\bài 6\bài 6\bin\Debug\bài 6.pdb
+D:\C#\bài 6\bài 6\obj\Debug\bài 6.csprojAssemblyReference.cache
+D:\C#\bài 6\bài 6\obj\Debug\bài_6.Form1.resources
+D:\C#\bài 6\bài 6\obj\Debug\bài_6.Properties.Resources.resources
+D:\C#\bài 6\bài 6\obj\Debug\bài 6.csproj.GenerateResource.cache
+D:\C#\bài 6\bài 6\obj\Debug\bài 6.csproj.CoreCompileInputs.cache
+D:\C#\bài 6\bài 6\obj\Debug\bài 6.exe
+D:\C#\bài 6\bài 6\obj\Debug\bài 6.pdb

@@ -1,0 +1,18 @@
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\bin\Debug\Chuong5_QlyNhanVien.exe
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\bin\Debug\Chuong5_QlyNhanVien.pdb
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.csprojAssemblyReference.cache
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.frmQlyNhanVien.resources
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.Properties.Resources.resources
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.csproj.GenerateResource.cache
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.csproj.CoreCompileInputs.cache
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.exe
+D:\c#_source\cslt2\Chuong 5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.pdb
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.csprojAssemblyReference.cache
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.frmQlyNhanVien.resources
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.Properties.Resources.resources
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.csproj.GenerateResource.cache
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.csproj.CoreCompileInputs.cache
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.exe
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\obj\Debug\Chuong5_QlyNhanVien.pdb
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\bin\Debug\Chuong5_QlyNhanVien.exe
+D:\CSLT2\chuong5\Chuong5_QlyNhanVien\Chuong5_QlyNhanVien\bin\Debug\Chuong5_QlyNhanVien.pdb
